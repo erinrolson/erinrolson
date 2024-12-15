@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Erin!
 
+### ☎️ Telegraph - Drop-in Notification Service
+
+I recently created Telegraph, an open-source, developer-friendly notification service for developers supporting in-app, email, and Slack notification channels.
 <!--
 **erinrolson/erinrolson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
