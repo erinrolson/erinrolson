@@ -1,6 +1,8 @@
 ## Hi there 👋, I'm Erin!
 
-### ☎️ Telegraph - Drop-in Notification Service
+I'm a full-stack software engineer with experience in JavaScript, TypeScript, React, Python, and PostgreSQL. I leverage my engineering and GIS 🌎 backgrounds to tackle complex problems and deliver solutions.
+
+### ☎️ Telegraph
 
 I recently created Telegraph, an open-source, developer-friendly notification service for developers supporting in-app, email, and Slack notification channels.
 <!--
